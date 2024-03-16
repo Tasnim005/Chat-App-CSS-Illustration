@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Repository]()
-- Live Site URL: [Live preview]()
+- Solution URL: [Repository](https://github.com/Tasnim005/Chat-App-CSS-Illustration)
+- Live Site URL: [Live preview](https://tasnim005.github.io/Chat-App-CSS-Illustration/)
 
 ## My process
 
@@ -43,5 +43,5 @@ Users should be able to:
 - CSS Grid
 
 ## Author
-- Website - [Tasnim Alam]()
-- Frontend Mentor - [Tasnim005]()
+- Website - [Tasnim Alam](https://github.com/Tasnim005)
+- Frontend Mentor - [Tasnim005](https://www.frontendmentor.io/profile/Tasnim005)
